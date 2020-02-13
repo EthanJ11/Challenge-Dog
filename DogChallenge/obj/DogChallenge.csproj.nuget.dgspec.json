@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\Ethan\\Documents\\DogChallenge\\DogChallenge.csproj": {}
+  },
+  "projects": {
+    "B:\\Ethan\\Documents\\DogChallenge\\DogChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Ethan\\Documents\\DogChallenge\\DogChallenge.csproj",
+        "projectName": "DogChallenge",
+        "projectPath": "B:\\Ethan\\Documents\\DogChallenge\\DogChallenge.csproj",
+        "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
+        "outputPath": "B:\\Ethan\\Documents\\DogChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
